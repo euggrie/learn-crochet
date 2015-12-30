@@ -1,0 +1,24 @@
+<img ng-src="{{stitch.images[0]}}" class="stitch">
+
+<h1>{{stitch.name}}</h1>
+<p>{{stitch.description}}</p>
+
+<ul class="stitch-thumb">
+    <li ng-repeat="img in stitch.images">
+        <img ng-src="{{img}}">
+    </li>
+    <li ng-repeat="step in stitch.steps">
+        <h5>{{step}}</h5>
+    </li>
+</ul>
+
+<ul class="More">
+    <li>
+        <span>Difficulty</span>
+        <dd>{{stitch.difficulty}}</dd>
+    </li>
+    <li ng-repeat="example in stitch.examples">
+        <span>Examples</span>
+        <img src="{{example}}">
+    </li>
+</ul>

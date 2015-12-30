@@ -1,0 +1,26 @@
+{
+  "id": "half-double-stitch",
+  "instructions": "#",
+  "steps": [
+    "Step 1 : To create the half double stitch place the hook behind the yarn (that is coming from the yarn ball).",
+    "Step 2 : Insert into the first loop (second if on a new row).",
+    "Step 3 : Push through the loop like with the single stitch and wrap around the yarn.",
+    "Step 4 : Pull through all of the loops on the hook so that when you pull it out it will only have one loop on the hook.",
+    "Step 5 : Continue this down the row, flipping like above for each new row.",
+    "Step 6 : Continuing this method will gives you a bit of a differnent pattern than the single stitch."
+  ]
+  ,
+
+  "images": [
+    "./img/stitches/half-double-stitch/1.jpg",
+    "./img/stitches/half-double-stitch/2.jpg",
+    "./img/stitches/half-double-stitch/3.jpg",
+    "./img/stitches/half-double-stitch/4.jpg",
+    "./img/stitches/half-double-stitch/5.jpg",
+    "./img/stitches/half-double-stitch/6.jpg"
+  ],
+
+  "difficulty": "easy",
+
+  "examples" : []
+}

@@ -1,0 +1,35 @@
+
+<div class="container-fluid">
+    <div class="header">
+        <h2>Learn Crochet</h2>
+        <p>Beginning crocheters can check this list to find the most essential basic stitches they will need to know. Find a description of each stitch plus links to tutorials, instructions and / or videos for learning how to crochet each basic stitch.﻿
+        </p>
+    </div>
+
+
+    <div class="row content">
+        <div class="col-md-8">
+            <ul class="stitches">
+                <li ng-repeat="stitch in stitches | filter:query | orderBy:orderProp" class="thumbnail">
+                    <a href="#/stitches/{{stitch.id}}" class="thumb"><img ng-src="{{stitch.imageUrl}}"></a>
+                    <a href="#/stitches/{{stitch.id}}">{{stitch.name}}</a>
+                    <p>{{stitch.snippet}}</p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col-md-4">
+            <div class="side">
+                <input type="text" class="form-control" placeholder="Search" ng-model="query">
+            </div>
+            <div class="side">
+                Sort by:
+                <select ng-model="orderProp">
+                    <option value="name">Alphabetical</option>
+                    <option value="level">Difficulty</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,20 @@
+body {
+    background: #245269;
+    color: rgba(223, 224, 102, 0.41);
+    font-size: medium;
+    font-family: Consolas;
+}
+
+.content {
+    padding-top: 100px;
+    color: #3e3e3e;
+}
+
+.side {
+    padding: 30px 30px;
+    color: #303030;
+}
+
+.header {
+    padding-top: 30px;
+}

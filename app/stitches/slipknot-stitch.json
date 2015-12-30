@@ -1,0 +1,27 @@
+{
+  "id": "slipknot-stitch",
+  "instructions": "#",
+  "steps": [
+    "Step 1 : When starting off any crochet project, you’ll need to make a slip knot. First hold your crochet hook in your hand like you would a pencil.",
+    "Step 2 : Leave about a 4″ tail and flip the tail over the yarn coming off of the yarn ball.",
+    "Step 3 : Flip the tail under the loop that was created so that it is going down the center of the loop from behind.",
+    "Step 4 : Pull the tail slightly through the loop.",
+    "Step 5 : Place your hook into the new top look created (the smaller of the two loops).",
+    "Step 6 : Pull the loop tightly around the hook and this is your slip knot, ready to create your first chain stitch."
+  ],
+
+  "images": [
+    "./img/stitches/slipknot-stitch/1.jpg",
+    "./img/stitches/slipknot-stitch/2.jpg",
+    "./img/stitches/slipknot-stitch/3.jpg",
+    "./img/stitches/slipknot-stitch/4.jpg",
+    "./img/stitches/slipknot-stitch/5.jpg",
+    "./img/stitches/slipknot-stitch/6.jpg"
+  ],
+
+  "difficulty": "easy",
+
+  "examples" : [
+
+  ]
+}

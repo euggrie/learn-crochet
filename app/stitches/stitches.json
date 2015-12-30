@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chain-stitch",
+    "imageUrl": "/img/stitches/chain-stitch.jpg",
+    "name": "Chain",
+    "snippet": "The chain stitch is the most basic of all crochet stitches",
+    "level": 1
+  },
+
+  {
+    "id": "single-stitch",
+    "imageUrl": "/img/stitches/single-stitch.jpg",
+    "name": "Single",
+    "snippet": "Single crochet is the shortest and most basic of all stitches.",
+    "level": 1
+  },
+  {
+    "id": "double-stitch",
+    "imageUrl": "/img/stitches/double-stitch.jpg",
+    "name": "Double",
+    "snippet": "Double crochet is another basic crochet stitch you'll need to know. Its a tall, textured stitch with many potential uses. Double crochet combines well with all of the other basic stitches, and there are unlimited ways to use it.",
+    "level": 2
+  },
+  {
+    "id": "half-double-stitch",
+    "imageUrl": "/img/stitches/half-double-stitch.jpg",
+    "name": "Half Double",
+    "snippet": "Half double crochet stitch is taller than the single crochet, and shorter than the double crochet.",
+    "level": 3
+  },
+  {
+    "id": "slipknot-stitch",
+    "imageUrl": "/img/stitches/slipknot-stitch.jpg",
+    "name": "Slipknot",
+    "snippet": "A crochet slip knot is important to master because it is the first step taken when beginning any crocheted piece.",
+    "level": 4
+  }
+]

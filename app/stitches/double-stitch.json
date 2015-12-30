@@ -1,0 +1,35 @@
+{
+  "id": "double-stitch",
+
+  "instructions": "#",
+
+  "steps": [
+    "Step 1 : For the double stitch, place the hook behind the yarn (that is coming fromt the yarn ball).",
+    "Step 2 : Insert into the first loop (second if on a new row).",
+    "Step 3 : Push through the loop (like above) and wrap around the yarn.",
+    "Step 4 : This time, only pull through the first loop on the hook and the yarn that was on top, leaving you with two loops on the hook.",
+    "Step 5 : Wrap the hook behind the yarn again.",
+    "Step 6 : Pull it through both loops on the hook this time.",
+    "Step 7 : Now you should have just one loop on the hook.",
+    "Step 8 : Repeat the above steps down the entire row.",
+    "Step 9 : Like in the above stitches, flip over at the end of each row in order to keep working from right to left."
+
+  ],
+  "images": [
+    "./img/stitches/double-stitch/1.jpg",
+    "./img/stitches/double-stitch/2.jpg",
+    "./img/stitches/double-stitch/3.jpg",
+    "./img/stitches/double-stitch/4.jpg",
+    "./img/stitches/double-stitch/5.jpg",
+    "./img/stitches/double-stitch/6.jpg",
+    "./img/stitches/double-stitch/7.jpg",
+    "./img/stitches/double-stitch/8.jpg",
+    "./img/stitches/double-stitch/9.jpg"
+  ],
+
+  "difficulty": "easy",
+
+  "examples" : [
+
+  ]
+}

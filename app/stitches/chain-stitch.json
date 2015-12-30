@@ -1,0 +1,27 @@
+{
+  "id": "chain-stitch",
+
+  "instructions": "#",
+
+  "steps": [
+    "Step 1 : Yarn hooked over the crochet hook.",
+    "Step 2 : Hook the yarn and pull through the loop on the crochet hook.",
+    "Step 3 : You should now just have one loop on the crochet hook.",
+    "Step 4 : Repeat this, counting along the way until you’ve created the starting chain long enough for the project you’re working on.",
+    "Step 5 : Once you’ve created the chain long enough, flip around so that you are now working from the right to the left again.",
+  ],
+
+  "images": [
+    "./img/stitches/chain-stitch/1.jpg",
+    "./img/stitches/chain-stitch/2.jpg",
+    "./img/stitches/chain-stitch/3.jpg",
+    "./img/stitches/chain-stitch/4.jpg",
+    "./img/stitches/chain-stitch/5.jpg"
+  ],
+
+  "difficulty": "easy",
+
+  "examples" : [
+
+  ]
+}

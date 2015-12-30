@@ -1,0 +1,34 @@
+{
+  "id": "single-stitch",
+
+  "instructions": "#",
+
+  "steps": [
+    "Step 1 : Insert the hook into the second loop on the starting chain (not counting the loop on the hook).",
+    "Step 2 : After pushing through the loop, wrap the needle under the yarn (that is coming from the yarn ball).",
+    "Step 3 : Pull the yarn through just the first loop on the hook.",
+    "Step 4 : Once that is puled through the first loop on the hook, wrap the needle under the yarn again.",
+    "Step 5 : This time pull it through both loops on the hook.",
+    "Step 6 : Now there should be only one loop on the crochet hook.",
+    "Step 7 : Continue the method above, inserting the hook into first loop next to the last stitch. An easy way to remember this is if the loop looks like it is being stretched by the loop that is on the hook, then go through the loop next to that one.",
+    "Step 8 : Once you get to the end of a row, flip around so you are working from the right to the left each time and following the guidelines above.",
+    "Step 9 : As you continue this, you’ll form a square (or whatever other shape/pattern you’re working on)."
+
+  ],
+
+  "images": [
+    "./img/stitches/single-stitch/1.jpg",
+    "./img/stitches/single-stitch/2.jpg",
+    "./img/stitches/single-stitch/3.jpg",
+    "./img/stitches/single-stitch/4.jpg",
+    "./img/stitches/single-stitch/5.jpg",
+    "./img/stitches/single-stitch/6.jpg",
+    "./img/stitches/single-stitch/7.jpg",
+    "./img/stitches/single-stitch/8.jpg",
+    "./img/stitches/single-stitch/9.jpg"
+  ],
+
+  "difficulty": "easy",
+
+  "examples" : []
+}

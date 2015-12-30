@@ -1,0 +1,31 @@
+{
+  "name": "crochet-v1",
+  "authors": [
+    "Eugenia Grieff <eugeniagrieff@gmail.com>"
+  ],
+  "description": "Learn Crochet",
+  "main": "main.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "crochet"
+  ],
+  "license": "MIT",
+  "homepage": "./index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angular-route": "1.4.x",
+    "angular-mocks": "~1.4.8"
+  }
+}
